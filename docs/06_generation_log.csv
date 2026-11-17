@@ -1,0 +1,5 @@
+id,date,set,shot,outfit,model,seed,prompt_ref,status,notes
+M01,2026-11-17,A,full body 3/4,white crop tank + grey shorts,seed,seed-01,bible,FROZEN,source of truth all masters derive from
+M02,2026-11-17,A,face close,bare shoulders,,,idblock,TODO,derive from M01
+M03,2026-11-17,B,waist up,white crop tank,,,idblock,TODO,derive from M01
+M04,2026-11-17,C,full body mirror,gym wear,,,idblock,TODO,derive from M01

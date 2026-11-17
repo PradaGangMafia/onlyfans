@@ -1,0 +1,7 @@
+onlyscams/
+          docs/        this folder — bible, identity, voice, captions, log, masters, todo
+          seed/seed.png <the origional seed image>
+          masters/     Master images for creating content
+          content/     A/ B/ C/ by set, only generated from approved masters
+          customs/     one folder per fan, id in name
+          archive/     superseded masters, kept for rollback
