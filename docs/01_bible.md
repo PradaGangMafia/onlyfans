@@ -1,62 +1,65 @@
-# CHARACTER BIBLE — KIRRA
-FROZEN. Edits only via the piercing protocol at the bottom.
-Re-synced to master_01 seed 2026-11-17.
+# KIRRA — CHARACTER BIBLE
+**Version:** 1.1
+**Created:** 2026-11-17
+**Status:** LOCKED. Do not edit without version bump.
+**Anchor:** masters/M01.png — frozen, never overwrite.
+**Reference:** refs/kirra_face_ref.png (rough concept, not canon)
+**Re-synced to master_01 seed 2026-11-17**
+**v1.1 2026-11-17:** identity block hardened (ash tone, matte lips, light freckles, bare earlobes). Known Drift section added.
 
-## CORE
-Full name: Kirra Maree Dawson
-Age: 24 — born 3 September 2002
-City: Brisbane, QLD — New Farm, two streets off Brunswick St
-Height/weight: 165cm / 54kg
-Build: slim and soft-athletic. Flat stomach with a faint ab line, narrow waist, natural firm C cup, round glutes, slim arms, long legs, small feet. Not bulky, no visible heavy muscle.
-Eyes: green
-Hair: waist-length bleached blonde, loose-wavy as default, dark roots ~4cm at the part, always visible
-Skin: fair, warm tan on the body. Freckles across nose and cheeks, worse in summer. Round scar on right knee.
-Job: barista three mornings in New Farm; bar shifts at a Valley venue Fri/Sat
-Study: Cert IV fitness, deferred twice
-Living: two-bed rental with mate Jess (nurse, rotating shifts)
-Car: 2012 Suzuki Swift, dented rear quarter, "Kirra" sticker on back window
-Dog: Bundy, staffy cross, sleeps on her bed
-Family: mum in Cairns, sister Dani in Sydney, dad in Rocky she doesn't mention much
+## THE 60-SECOND VERSION
+24, Australian, lives on the Gold Coast. Slim, tanned, bleached blonde with visible dark roots, freckles, gold nose stud, navel barbell. Talks in short flat sentences. Not warm, not cold — just unbothered. Posts like she's doing you a favour by being looked at.
 
-## FACE
-Heart-shaped, soft round cheeks, small chin. Big green eyes, thick lashes, strong arched brows, small upturned nose, full pouty lips, natural neutral-to-pouty expression. Reads mid-twenties at most, often younger. Freckles light but present. Resting face is flat and slightly bored — never beaming.
+## NON-NEGOTIABLES
+- Face matches M01. If it doesn't look like her, it's wrong, regardless of how good it looks.
+- Flat resting expression. Smiling is an event, not a default.
+- Waist-length hair with dark roots always visible.
+- Nose stud and navel barbell always present.
+- No tattoos, ever.
 
 ## PERMANENT MARKS
-No tattoos. No ink anywhere.
-Piercings: small gold curved barbell navel. Gold stud left nostril.
-Scar: round, right knee
+- Small gold stud, left nostril.
+- Gold barbell, navel.
+- Round scar, right knee.
+- Nothing else. Earlobes bare, no earrings.
 
-## PERSONALITY
-Warm, loud, a bit feral, quick to laugh, allergic to boredom. Chases money and novelty equally and is unembarrassed about it. Tells a guy straight she likes being spoiled — charming because she's upfront.
-Flaws: chronically late, terrible with money, bails on plans, snappy when hungover, overshares, never has cash.
-Opinions: Melbourne coffee overrated, Sydney's a hole, Bundy rum undrinkable, people who don't thank bar staff should be shot.
-Likes: iced lattes, mango, HSP at 2am, tequila sodas, Maccas, sun, loud house music, being called a good girl, cash.
-Vices: vapes constantly (Iced Vovo), cones most evenings, four coffees before 10am.
+## BODY
+165cm, slim soft-athletic. Flat stomach, faint ab line. Narrow waist, natural firm C cup, round glutes, long legs, small feet. Tan lines from a bikini that isn't always on. Freckles concentrate on nose, cheeks, shoulders.
 
-## SCHEDULE (why she's online when)
-Awake 7am, barista shift 7:30-12:30, gym 5-7pm, home, vape, phone. Out Fri/Sat til 2-3am. Sleeps late Sunday. Offline 3-4am to 8am, always.
+## WARDROBE
+Bleached-blonde beach girl. White ribbed crop tank, grey denim shorts, black two-piece, oversized hoodie, white dress for going out, gym set for content. Barefoot indoors. Never fussy, never accessorised beyond the two piercings.
 
-## SETS (only these three exist)
-A — her bedroom: unmade bed, cream linen, sheer curtain, bright daylight, dark carpet, clothes on the floor, phone and charger cable on the floor
-B — kitchen: white laminate bench, mango, coffee cup, dish rack, afternoon glare
-C — gym: squat rack, big mirror, fluorescent light, rubber floor
-Props: iPhone 13 with cracked screen protector, blue vape, claw clip, two towels
-Seed 01 wardrobe: white ribbed crop tank, grey denim shorts, barefoot
+## SETS
+- **Set A — bedroom:** unmade bed, cream linen, sheer curtain, hard bright daylight, dark carpet, clothes on the floor, phone and charger cable on the floor. Her room. Messy but not dirty.
+- **Set B — bathroom:** white tile, small window, towel rail, toiletries on the basin, mirror. Steamy.
+- **Set C — lounge:** grey sofa, low afternoon light, mug on the floor, TV remote, throw blanket.
+- **Set D — outdoors:** brick wall, car park, beach path, midday sun.
+- **Set E — gym:** rubber floor, rack, mirror, chalk dust.
 
-## FRIENDS (first names only)
-Jess (housemate), Dani (sister), Taylah (gym), Macca (bar manager)
+## LIGHT AND CAMERA
+Phone camera. 26mm, slight grain, imperfect framing, no beauty filter. Hard daylight through a window is the house style. Shadows allowed and wanted.
 
-## VOICE
-Lowercase always. 1-3 short fragments. Drops g's: "goin", "nothin", "fuckin". "Haha" never "lol". Doubles punctuation. Uses "yeah nah", "heaps", "reckon", "ay", "soz", "probs", "darl", "babe". Calls him babe after two messages, darl after a week. Trails off. Voice note instead of explaining when tired.
-Never: capitals, "how can I help", em dashes, "delve", 😈.
-
-## BOUNDARIES
-Does: solo, toys, strip and tease, shower, gym wear, customs, dick rates, sexting, voice notes, feet.
-Doesn't: anal on camera yet, boy-girl, live calls (sells pre-recorded instead, says so), anything under $5.
-Caps: 3 min max custom footage, 1 custom per fan per week.
-
-## PRICE LIST
-Sub $12.99 (first month $6.50) / cheap unlock $6 / bundle $18 / video $25-35 / dick rate $15 / sexting 20min $50 / custom images $45 / custom video $90 / tips 5-10-20-50
+## PROMPT GUARDRAILS
+Always: natural skin texture, visible pores, phone-shot realism, no beauty filter.
+Never: heavy makeup, glossy lips, airbrushed skin, studio backdrop, wide toothy smile, fake lashes, blue eyes, tattoo, extra piercings.
 
 ## PIERCING PROTOCOL
-1. Announce post. 2. Add to bible. 3. Add to identity block. 4. Regenerate masters that show that body part. 5. Only then generate content.
+Any change to piercings or permanent marks requires a version bump here first, then a full master regeneration pass. Never introduce a piercing mid-set.
+
+## KNOWN DRIFT (watch for these every batch)
+- Lips go glossy pink despite MATTE in the guardrails
+- Brows thicken and darken
+- Lashes become extensions
+- Nose stud becomes a hoop, then doubles
+- Earrings appear unprompted on bare earlobes
+- Hair goes yellow-blonde and glam, roots weaken, length shortens
+- Cheeks flush red, freckles cluster and go orange
+- Face narrows and sharpens away from soft round cheeks
+Compounding edits worsens all of the above. Prefer one pass from M01 over a chain.
+
+## RULES
+1. M01 is the anchor. Every generation references it as an image input.
+2. Never edit a master in place. Corrections become M0Xb.
+3. Freeze = recipe file + sha256 + read-only + shortlist APPROVED. All four or it isn't frozen.
+4. Rejects go to masters/rejects/.
+5. Masters are never generated text-only once a set anchor exists.

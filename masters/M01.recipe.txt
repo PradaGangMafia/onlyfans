@@ -1,0 +1,11 @@
+MASTER: M01
+FROZEN: 2026-11-17
+SET: A
+OUTFIT: white ribbed mock-neck crop tank, grey denim shorts, barefoot
+FRAMING: full body head to toe, straight on, feet apart, deadpan
+MODEL: n/a — uploaded file, not generated in-session
+DIMENSIONS: 1344x2016
+SEED: n/a
+PROVENANCE: superseded all four chroma seed attempts (101-104). Those are in masters/rejects/.
+
+KNOWN DEFECTS: mock-neck halter instead of the reference's crew-neck tank. Right knee scar barely legible. Accept both; do not "fix" M01.

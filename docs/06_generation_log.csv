@@ -1,5 +1,14 @@
-id,date,set,shot,outfit,model,seed,prompt_ref,status,notes
-M01,2026-11-17,A,full body 3/4,white crop tank + grey shorts,seed,seed-01,bible,FROZEN,source of truth all masters derive from
-M02,2026-11-17,A,face close,bare shoulders,,,idblock,TODO,derive from M01
-M03,2026-11-17,B,waist up,white crop tank,,,idblock,TODO,derive from M01
-M04,2026-11-17,C,full body mirror,gym wear,,,idblock,TODO,derive from M01
+id,date,master,set,outfit,model,seed,width,height,prompt_file,status,notes
+001,2026-11-17,M01,A,tank_denim,chroma,101,1024,1536,prompts/M01.txt,REJECTED,mid-thigh crop, soft flat light, tidy set
+002,2026-11-17,M01,A,tank_denim,chroma,102,1024,1536,prompts/M01.txt,REJECTED,short hair, face too small in frame
+003,2026-11-17,M01,A,tank_denim,chroma,103,1024,1536,prompts/M01.txt,REJECTED,feet clipped, flat light
+004,2026-11-17,M01,A,tank_denim,chroma,104,1024,1536,prompts/M01.txt,REJECTED,halter drift, scar invisible
+005,2026-11-17,M01,A,tank_denim,upload,,1344,2016,prompts/M01.txt,FROZEN,supersedes 001-004. anchor
+006,2026-11-17,M01b,A,tank_denim,upload,,1344,2016,none,UNSAVED,legs crossed. file never saved
+007,2026-11-17,M02,A,tank,firered,,896,1120,prompts/M02.txt,REJECTED,tank still on, hoop not stud
+008,2026-11-17,M02,A,tank,firered,,896,1120,prompts/M02.txt,REJECTED,fabric in frame, hoop
+009,2026-11-17,M02,A,tank,qwen,,896,1120,prompts/M02.txt,REJECTED,sunburnt redness, short hair
+010,2026-11-17,M02,A,tank,qwen,,896,1120,prompts/M02.txt,REJECTED,glam blowout, rosy cheeks
+011,2026-11-17,M02,A,tank,firered,,896,1120,prompts/M02.txt,REJECTED,earring returned, hair short
+012,2026-11-17,M02,A,tank,qwen,,896,1120,prompts/M02.txt,REJECTED,stud became ring, bust framing
+013,2026-11-17,M02,A,tank,firered,,896,1120,prompts/M02.txt,FROZEN,upscaled 2x. earring + gloss logged as defects

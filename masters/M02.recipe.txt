@@ -1,0 +1,15 @@
+MASTER: M02
+FROZEN: 2026-11-17
+SET: A
+OUTFIT: white ribbed mock-neck crop tank
+FRAMING: head + shoulders, straight on, deadpan
+MODEL: firered-image-edit
+SOURCE: masters/M01.png (identity pass, not text-only)
+DIMENSIONS: 896x1120 native, upscaled 2x to 1792x2240
+SEED: n/a (edit model exposes no seed)
+PROVENANCE: edit pass from M01 -> upscale 2x. No text-only generation.
+
+PROMPT (verbatim):
+Same photo, just framed tighter — crop in to head, neck and shoulders. Do not change her: same face, same hair, same white ribbed mock-neck tank, same light, same background. Head centred with a little headroom, shoulders cut by the bottom edge. Deadpan, lips closed, chin level, looking into the lens. Keep it phone-real, visible pores and freckles, no retouching, no gloss, no extra piercings.
+
+KNOWN DEFECTS: silver earring present (canon violation), glossy lips, freckles denser than spec. Target for M02b.

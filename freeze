@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+id="$1"
+f=$(find masters -name "${id}.png" | head -1)
+[ -n "$f" ] || { echo "no png for $id"; exit 1; }
+r="${f%.png}.txt"
+[ -f "$r" ] || { echo "no recipe $r"; exit 1; }
+grep -qi '^PROMPT' "$r" || { echo "recipe has no PROMPT line"; exit 1; }
+b="${f%.png}"
+mv "$f" "${b}_FROZEN.png"
+mv "$r" "${b}_FROZEN.txt"
+sha256sum "${b}_FROZEN.png" > "${b}_FROZEN.sha256"
+chmod 444 "${b}_FROZEN.png" "${b}_FROZEN.txt"
+printf '%s %s\n' "$(date -I)" "${b}_FROZEN" >> log.txt
+echo "frozen: ${b}_FROZEN.png"

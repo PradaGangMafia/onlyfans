@@ -1,0 +1,4 @@
+M01 frozen 2026-11-17 — anchor, never overwrite
+M02 frozen 2026-11-17 — derived from M01
+Rule: masters are never edited in place. Corrections become M0Xb. Superseded files move to masters/retired/.
+Verify before every session: sha256sum -c *.sha256
